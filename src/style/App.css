@@ -1,0 +1,24 @@
+.topnav{
+    border-radius: 5px;
+    border: solid 2px;
+    padding: 10px;
+    background-color: darkcyan;
+}
+
+.title{
+    margin-left: 33%;
+    color: white;
+    font-weight: bold;
+}
+
+.topnav select{
+    margin-left: 90%;
+    border-radius: 5px;
+    min-width: 10%;
+    text-align: center;
+    cursor: pointer;
+}
+.sel{
+    width: 100px;
+    height: 30px;
+}

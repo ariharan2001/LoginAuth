@@ -1,0 +1,25 @@
+.navbar {
+    height: 5vh;
+    background: cornflowerblue;
+  }  
+
+.navitem {
+    position: fixed;
+    height: 5vh;
+    width: 10%;
+    margin-top: 0px;
+    margin-left: 90%;
+    color: white;
+    background-color:slateblue;
+    text-align: center;
+    font-weight: bold;    
+  }
+
+  .navitem a:hover {
+    background: rgb(0, 212, 212);
+  }
+
+  .title{
+    color: white;
+    text-align: center;
+  }
